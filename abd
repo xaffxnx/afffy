@@ -2,4 +2,5 @@
 void main()
 {
 printf("i love football")
+printf("i love cricket")
 }
